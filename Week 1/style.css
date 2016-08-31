@@ -1,0 +1,17 @@
+p{
+    font-family: fantasy;
+    font-weight: 100; }
+
+body{
+    background-color: aliceblue;
+    font-size:18px;
+}
+
+h1 { color:black}
+
+img{
+        max-width:100%;
+        padding: .5em;
+        border: 1px solid white;
+        float:right;
+}
